@@ -25,6 +25,3 @@ One-Pass Hash Map using Dictionary<int, int>.
 
 - Time Complexity: O(n) average
 - Space Complexity: O(n)Dictionary<int, int>.
-
-- Time Complexity: O(n) average
-- Space Complexity: O(n)
